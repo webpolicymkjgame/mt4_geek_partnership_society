@@ -21,8 +21,8 @@ function Header() {
           <div className="container header-container">
             <div className="header-left">
               <div className="logo-wrapper">
-                <img src={logoImg} alt="Geek Partnership Society" className="logo-img" />
-                <span className="studio-name">Geek Partnership Society</span>
+                <img src={logoImg} alt="Zed App Mobile Studio" className="logo-img" />
+                <span className="studio-name">Zed App Mobile Studio</span>
               </div>
             </div>
 
@@ -52,8 +52,8 @@ function HomePage() {
       <section id="about" className="section about">
         <div className="container about-row">
           <div className="about-text-container">
-            <h2 className="highlight-title">Geek Partnership Society – Welcome Aboard</h2>
-            <p className="about-text">Geek Partnership Society is a mobile app development studio specializing in creating innovative, secure, and user-friendly financial solutions. Our official website showcases a diverse portfolio – from fintech apps and productivity tools to educational and lifestyle applications
+            <h2 className="highlight-title">Zed App Mobile Studio – Welcome Aboard</h2>
+            <p className="about-text">Zed App Mobile Studio is a mobile app development studio specializing in creating innovative, secure, and user-friendly financial solutions. Our official website showcases a diverse portfolio – from fintech apps and productivity tools to educational and lifestyle applications
             </p>
           </div>
           <div className="about-img-container">
@@ -112,7 +112,7 @@ function App() {
         </Routes>
         <footer className="footer">
           <div className="container text-center">
-            <p>&copy; {new Date().getFullYear()} Geek Partnership Society. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} Zed App Mobile Studio. All rights reserved.</p>
           </div>
         </footer>
       </div>
